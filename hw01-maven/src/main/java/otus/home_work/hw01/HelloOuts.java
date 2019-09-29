@@ -1,4 +1,4 @@
-package otus.homeWork.hw01;
+package otus.home_work.hw01;
 
 import com.google.common.base.Joiner;
 

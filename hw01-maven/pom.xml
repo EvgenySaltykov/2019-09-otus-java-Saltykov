@@ -36,7 +36,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>otus.homeWork.hw01.HelloOuts</mainClass>
+                            <mainClass>otus.home_work.hw01.HelloOuts</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
